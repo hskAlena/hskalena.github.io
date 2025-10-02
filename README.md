@@ -1,1 +1,2 @@
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. If you do clone this website, feel free to add an attribution link to your own downstream website in index.html if you want.
+I initially forked Jon Barron's public academic website, but to ensure sustainable development, I migrated the code base to one based on Yujung Heo's website (https://github.com/YuJungHeo/YuJungHeo.github.io/tree/master).
+
